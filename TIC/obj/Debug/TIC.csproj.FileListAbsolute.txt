@@ -1,0 +1,18 @@
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\bin\Debug\TIC.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\bin\Debug\TIC.exe
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\bin\Debug\TIC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.Form1.resources
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.exe
+c:\users\daniel\documents\visual studio 2012\Projects\TIC\TIC\obj\Debug\TIC.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\bin\Debug\TIC.exe.config
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.exe
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\bin\Debug\TIC.exe
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\bin\Debug\TIC.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.csprojResolveAssemblyReference.cache
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.Form1.resources
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.Properties.Resources.resources
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica1\TIC\TIC\obj\Debug\TIC.csproj.GenerateResource.Cache
